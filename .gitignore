@@ -2,3 +2,7 @@
 *.pyc
 .ipynb_checkpoints
 __pycache__
+.data/0036SET
+.data/1_set
+.data/2_set
+.data/3_set
